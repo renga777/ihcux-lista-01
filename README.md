@@ -114,5 +114,5 @@ class Program
 
 
 
-![Print do terminal rodando o projeto](./LISTA3_1.png)
-![Print do terminal rodando o projeto](./LISTA3_1.png)
+![Print do terminal rodando o projeto](./Foto1.png)
+![Print do terminal rodando o projeto](./Foto2.png)
